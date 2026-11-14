@@ -1,0 +1,20 @@
+{
+  "name": "VESPERA V5.1 — Quest Glass System",
+  "short_name": "VESPERA",
+  "description": "A mature, game-inspired personal system with liquid-glass navigation and a local assistant.",
+  "lang": "ar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070d",
+  "theme_color": "#070b14",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
